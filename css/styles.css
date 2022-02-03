@@ -1,0 +1,18 @@
+.sobre {
+  top: 100px;
+  left: 30px;
+  opacity: 0.7;
+  background-color: grey;
+  color: white;
+  transform: rotate(10deg);
+  border: 1px solid red;
+}
+
+body {
+  background-color:white;
+  color: white;
+}
+
+.body{
+  background-color: rgb(0, 0, 0);
+}
